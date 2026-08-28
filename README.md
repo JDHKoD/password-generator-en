@@ -103,13 +103,13 @@ password-generator-en/
 Support development if the project saved you time or improved your security!
 
 **🔹 USDT (Polygon) — Recommended (low fee)**  
-`0x6d9d19cc9f7a5af13f35390fb739e957499e1772`
+`0x0100CAB59D16b9f5C68f88132F27b295c84560Fe`
 
 **🔹 USDT (Arbitrum)**  
-`0x6d9d19cc9f7a5af13f35390fb739e957499e1772`
+`0x0100CAB59D16b9f5C68f88132F27b295c84560Fe`
 
 **🔹 USDT (Ethereum / ERC-20) — High fee!**  
-`0x6d9d19cc9f7a5af13f35390fb739e957499e1772`
+`0x0100CAB59D16b9f5C68f88132F27b295c84560Fe`
 
 **🔹 BTC**  
 `bc1qfdtjg8ls3lva9tx7vrzxy3m8mlpvdlvp2am8lk`
